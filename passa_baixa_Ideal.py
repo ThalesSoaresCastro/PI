@@ -1,5 +1,3 @@
-#Thales de Castro Soares 86958
-
 #Passa baixas ideal
 import numpy as np
 from matplotlib import pyplot as plt
